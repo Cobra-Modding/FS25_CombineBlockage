@@ -1,0 +1,1 @@
+Realistische Simulation der Schneidwerksauslastung sowie Verstofung des Schrägförderers und der Dreschtrommel

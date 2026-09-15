@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n><texts>
+    <text name="input_COMBINEBLOCKAGE_CLEAR" text="Clear cutter blockage" />
+    <text name="action_combineBlockage_clearHeader" text="Clear cutter" />
+    <text name="input_COMBINEBLOCKAGE_CLEAR_DRUM" text="Clear drum blockage" />
+    <text name="action_combineBlockage_clearDrum" text="Clear drum" />
+    <text name="warning_combineBlockage_headerBlockedPersistent" text="CUTTER BLOCKED!" />
+    <text name="warning_combineBlockage_drumBlockedPersistent" text="DRUM BLOCKED!" />
+    <text name="warning_combineBlockage_clearHint" text="PRESS %s TO CLEAR THE BLOCKAGE" />
+    <text name="warning_combineBlockage_headerCleared" text="Cutter blockage cleared." />
+    <text name="warning_combineBlockage_drumCleared" text="Drum blockage cleared." />
+    <text name="hud_combineBlockage_load" text="HEADER LOAD  %d %%  %s" />
+    <text name="hud_combineBlockage_stateNormal" text="NORMAL" />
+    <text name="hud_combineBlockage_stateHigh" text="HIGH" />
+    <text name="warning_combineBlockage_feederBlockedPersistent" text="FEEDER HOUSE BLOCKED!" />
+    <text name="warning_combineBlockage_feederClearHint" text="Clear: LEFT ALT + S" />
+    <text name="warning_combineBlockage_feederCleared" text="Feeder house cleared – restart the combine." />
+</texts></l10n>

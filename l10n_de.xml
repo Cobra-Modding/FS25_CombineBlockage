@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n><texts>
+    <text name="input_COMBINEBLOCKAGE_CLEAR" text="Schneidwerk-Verstopfung beseitigen" />
+    <text name="action_combineBlockage_clearHeader" text="Schneidwerk befreien" />
+    <text name="input_COMBINEBLOCKAGE_CLEAR_DRUM" text="Trommel-Verstopfung beseitigen" />
+    <text name="action_combineBlockage_clearDrum" text="Trommel befreien" />
+    <text name="warning_combineBlockage_headerBlockedPersistent" text="SCHNEIDWERK VERSTOPFT!" />
+    <text name="warning_combineBlockage_drumBlockedPersistent" text="TROMMEL VERSTOPFT!" />
+    <text name="warning_combineBlockage_clearHint" text="%s ZUM BEFREIEN DRÜCKEN" />
+    <text name="warning_combineBlockage_headerCleared" text="Schneidwerk-Verstopfung beseitigt." />
+    <text name="warning_combineBlockage_drumCleared" text="Trommel-Verstopfung beseitigt." />
+    <text name="hud_combineBlockage_load" text="SCHNEIDWERKSAUSLASTUNG  %d %%  %s" />
+    <text name="hud_combineBlockage_stateNormal" text="NORMAL" />
+    <text name="hud_combineBlockage_stateHigh" text="HOCH" />
+    <text name="warning_combineBlockage_feederBlockedPersistent" text="SCHRÄGFÖRDERER BLOCKIERT!" />
+    <text name="warning_combineBlockage_feederClearHint" text="Befreien: LINKS ALT + S" />
+    <text name="warning_combineBlockage_feederCleared" text="Schrägförderer befreit – Mähdrescher wieder aktivieren." />
+</texts></l10n>

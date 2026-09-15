@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="111">
+    <author>Marcus (Cobra Modding)</author>
+    <version>1.0.0.0</version>
+    
+	<title>
+		<de>Verstopfung des Mähdreschers</de>
+		<en>Combine Harvester Blockage</en>
+	</title>
+    
+	<description>
+        <de><![CDATA[Simuliert die Schneidwerksauslastung sowie zufällige Verstopfungen von Schneidwerk, Schrägförderer und Dreschtrommel.]]></de>
+        <en><![CDATA[Simulates header load and random blockages of the header, feeder house and threshing drum.]]></en>
+    </description>
+	
+	<iconFilename>icon_combineBlockage.dds</iconFilename>
+   
+    <multiplayer supported="true" />
+    
+	<l10n filenamePrefix="l10n/l10n" />
+   
+    <specializations>
+        <specialization name="combineBlockage" className="CombineBlockage" filename="scripts/CombineBlockage.lua" />
+    </specializations>
+    
+	<extraSourceFiles>
+        <sourceFile filename="scripts/CombineBlockageRegister.lua" />
+    </extraSourceFiles>
+    
+	<actions>
+        <action name="COMBINEBLOCKAGE_CLEAR" category="VEHICLE" />
+        <action name="COMBINEBLOCKAGE_CLEAR_DRUM" category="VEHICLE" />
+    </actions>
+    
+	<inputBinding>
+        <actionBinding action="COMBINEBLOCKAGE_CLEAR">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_b" index="1" />
+        </actionBinding>
+        <actionBinding action="COMBINEBLOCKAGE_CLEAR_DRUM">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_t" index="1" />
+        </actionBinding>
+    </inputBinding>
+</modDesc>

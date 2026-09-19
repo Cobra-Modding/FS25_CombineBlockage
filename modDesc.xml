@@ -13,7 +13,7 @@
         <en><![CDATA[Simulates header load and random blockages of the header, feeder house and threshing drum.]]></en>
     </description>
 	
-	<iconFilename>icon_combineBlockage.dds</iconFilename>
+	<iconFilename>icon_CombineBlockage.dds</iconFilename>
    
     <multiplayer supported="true" />
     

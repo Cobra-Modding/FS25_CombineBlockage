@@ -5,7 +5,7 @@
 - Bis etwa 6 km/h steigt die Auslastung auf ungefähr 80 %.
 - Bei etwa 7 km/h kann die Schneidwerksauslastung bereits 100 % erreichen.
 - Ab ungefähr 8 km/h bei 100 % Auslastung kann sich das Schneidwerk vollständig verstopfen.
-- Bei hoher Auslastung können zusätzlich Störungen auftreten (Schrägförderer und Dreschtrommel )
+- Bei hoher Auslastung können zusätzlich Störungen auftreten (Schrägförderer und Dreschtrommel)
 
 ### Nach einem Belastungsereignis wird die Zufallsprüfung erst wieder aktiviert, wenn die Auslastung auf etwa 60 % oder weniger fällt.
 

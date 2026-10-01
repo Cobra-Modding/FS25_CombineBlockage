@@ -15,6 +15,6 @@
 
 ### Im HUD wird die aktuelle „Schneidwerksauslastung“ inklusive Zustand wie NORMAL oder HOCH angezeigt.
 
-### Verstopfungen werden mit deutlichen Warnmeldungen wie SCHNEIDWERK VERSTOPFT!, TROMMEL VERSTOPFT! oder SCHRÄGFÖRDERER BLOCKIERT! angezeigt.
+### Verstopfungen werden mit deutlichen Warnmeldungen wie SCHNEIDWERK VERSTOPFT, TROMMEL VERSTOPFT oder SCHRÄGFÖRDERER BLOCKIERT angezeigt.
 
 ### Bei aktivem KI-Helfer wird das Verstopfungssystem deaktiviert, damit der Helfer nicht durch die Störungen hängen bleibt.

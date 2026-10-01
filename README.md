@@ -1,3 +1,5 @@
+    Der Mod ist Global und baut sich in jedes Fahrzeug ein, dass ein Schneidwerk besitzt.
+
 ### Simuliert eine Schneidwerksauslastung während der Ernte.
 - Die Auslastung hängt unter anderem von der Fahrgeschwindigkeit und davon ab, wie viel Erntegut das Schneidwerk tatsächlich aufnimmt.
 - Bis etwa 6 km/h steigt die Auslastung auf ungefähr 80 %.
